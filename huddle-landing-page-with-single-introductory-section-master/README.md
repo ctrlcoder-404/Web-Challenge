@@ -26,7 +26,7 @@ Users should be able to:
 
 ### 🔗 Links
 
-- 🔧 [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-url)
+- 🔧 [Solution Link](https://github.com/ctrlcoder-404/Web-Challenge/tree/main/huddle-landing-page-with-single-introductory-section-master)
 - 🌐 [Live Site](https://your-live-site-url.com)
 
 ---
