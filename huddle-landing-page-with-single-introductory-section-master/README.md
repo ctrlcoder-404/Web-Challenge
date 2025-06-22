@@ -27,7 +27,7 @@ Users should be able to:
 ### 🔗 Links
 
 - 🔧 [Solution Link](https://github.com/ctrlcoder-404/Web-Challenge/tree/main/huddle-landing-page-with-single-introductory-section-master)
-- 🌐 [Live Site](https://your-live-site-url.com)
+- 🌐 [Live Site](https://ctrlcoder-404.github.io/Web-Challenge/huddle-landing-page-with-single-introductory-section-master/)
 
 ---
 
